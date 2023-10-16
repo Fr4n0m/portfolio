@@ -1,0 +1,11 @@
+@import url(/css/01-settings/const.css);
+
+@import url(/css/03-generic/reset.css);
+@import url(/css/03-generic/layout.css);
+
+@import url(/css/04-elements/scroll_up_button.css);
+
+@import url(/css/05-objects/section.css);
+@import url(/css/05-objects/first_section.css);
+@import url(/css/05-objects/header.css);
+@import url(/css/05-objects/footer.css);
