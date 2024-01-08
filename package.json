@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-fran",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr4n0m/portfolio.git"
+  },
+  "author": "Francisco José Rodríguez Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr4n0m/portfolio/issues"
+  },
+  "homepage": "https://github.com/Fr4n0m/portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
